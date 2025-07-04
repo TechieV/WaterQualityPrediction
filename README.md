@@ -23,7 +23,6 @@ This project is a machine learning-based web application that predicts the level
 - Scikit-learn
 - Joblib / Pickle for model saving
 - Streamlit for web app
-- Gradient + Glassmorphism UI (custom CSS)
 
 ---
 
