@@ -27,11 +27,4 @@ This project is a machine learning-based web application that predicts the level
 
 ---
 
-## 🗂️ Project Structure
-water-pollutants-predictor/
-── app.py # Streamlit web app
-── WaterQuality.ipynb # Jupyter notebook for model training
-── pollution_model.pkl # Trained ML model (Joblib format)
-── model_columns.pkl # Model input columns (used for encoding)
-── requirements.txt # Python dependencies
-── README.md # Project documentation
+
