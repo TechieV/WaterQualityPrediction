@@ -25,5 +25,12 @@ This project is a machine learning-based web application that predicts the level
 - Streamlit for web app
 
 ---
+## Images
+
+![image](https://github.com/user-attachments/assets/acce4e25-f8d4-4cba-ba0e-612c6e987474)
+![image](https://github.com/user-attachments/assets/e30c0232-ffda-429b-bb4f-eb11015448de)
+
+
+
 
 
