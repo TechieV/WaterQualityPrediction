@@ -2,7 +2,7 @@
 
 This project is a machine learning-based web application that predicts the levels of major water pollutants based on the **Year** and **Station ID**. It is built using **Streamlit** and trained on historical water quality data.
 
-🔗 Live Demo: [https://waterqualitypredict.streamlit.app/](https://waterqualitypredict.streamlit.app/)
+🔗 Live Demo: [https://waterqualitypredict.streamlit.app/](https://waterqualitypredict.streamlit.app/) <br>
 🔗Link for Model <a>https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view</a>
 
 ---
